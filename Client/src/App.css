@@ -1,0 +1,34 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+textarea {
+border: 1px solid #ddd;
+border-radius: 4px;
+margin-bottom: 20px;
+}
+
+.markdown-preview {
+border: 1px solid #ddd;
+padding: 20px;
+border-radius: 4px;
+background-color: #f9f9f9;
+}
+
+h1, h2 {
+color: #333;
+}
+
+p {
+line-height: 1.6;
+}
+
+a {
+color: #0366d6;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
